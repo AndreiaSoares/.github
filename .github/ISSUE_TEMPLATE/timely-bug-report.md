@@ -20,14 +20,14 @@ _Are there any important dates / impacts to consider?_
 
 ## To Reproduce
 
-_Steps to reproduce the behavior:_
+_Steps to reproduce the behaviour:_
 
 1. _Go to..._
 2. _Click on..._
 3. _Scroll down to..._
 4. _See error..._
 
-## Expected behavior
+## Expected behaviour
 
 _A clear and concise description of what should happen in the Product (note if this is a missed case or new feature, please raise this [via Productboard](https://memory.slab.com/posts/i-want-to-xxq3acvx))_
 
